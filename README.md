@@ -1,2 +1,2 @@
 # NMI-PET-CT-segmentation
-#sh headfl.sh
+sh headfl.sh
