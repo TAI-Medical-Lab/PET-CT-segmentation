@@ -8,8 +8,11 @@ To address these challenges, we propose FedPT, a federated learning approach for
 Local Self-Attention (LSA) Module: This module enhances feature representation to effectively fuse PET-CT information. By incorporating local self-attention mechanisms, FedPT ensures that crucial details are preserved during the fusion process.
 
 Adversarial Noise Perturbation (ANP) Module: Designed to operate in heterogeneous federated settings, this module applies adversarial noise perturbations to the fused PT images. This process enhances the robustness of the model while respecting data privacy.
+
 # Dataset
 HNSCC：https://wiki.cancerimagingarchive.net/display/Public/HNSCC
+
+
 WB-FDG：https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258287
 
 # To train the model, you can run the following command.
